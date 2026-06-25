@@ -1,6 +1,6 @@
 ## Hi, I'm Mohammad 👋
 
-🎓 Software Engineering student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan |
+🎓 Software Engineering student at **Al-Zaytoonah University of Jordan**, based in Amman |
 💻 Learning backend development — **Java, Spring Boot & SQL** |
 🏦 Working toward a career in **Fintech** |
 🚀 Currently building **UniShare**, a platform for sharing university resources.
