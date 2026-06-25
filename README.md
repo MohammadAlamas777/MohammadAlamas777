@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Mohammad 👋
 
-<!--
-**MohammadAlamas777/MohammadAlamas777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan |
+💻 Learning backend development — **Java, Spring Boot & SQL** |
+🏦 Working toward a career in **Fintech** |
+🚀 Currently building **UniShare**, a platform for sharing university resources.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I'm working with
+- **Languages:** Java, TypeScript, SQL
+- **Backend:** Spring Boot, REST APIs
+- **Tools:** Git, GitHub
+
+### 🌱 Currently learning
+- Spring Boot REST API development
+- SQL & database design
+- Building clean, real-world projects step by step
+
+### 📫 Reach me
+- LinkedIn: [Mohammad Alamas](https://www.linkedin.com/in/mohammadalamas)
